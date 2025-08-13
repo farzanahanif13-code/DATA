@@ -1,2 +1,9 @@
 **ORIGIN FILE**
-POrosity analysis of all samples studied in article.
+
+Porosity analysis of all samples studied in article (adsorption gas).
+
+**ORIGIN FILE**'
+
+pore width (Pore width)
+
+
