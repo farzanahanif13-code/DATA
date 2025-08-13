@@ -7,5 +7,5 @@ Porosity analysis of all samples studied in article (adsorption gas).
 
 pore width (Pore width)
 
-FTIR analysis
+FTIR analysis (Edit FTIR)
 
